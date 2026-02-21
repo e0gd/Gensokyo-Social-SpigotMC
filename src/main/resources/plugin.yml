@@ -1,0 +1,14 @@
+name: GensokyoSocial
+version: 1.0.0
+main: com.eogd.gensokyo.GensokyoSocialPlugin
+api-version: 1.20
+author: eogd
+commands:
+  party:
+    description: 队伍相关指令 (创建/邀请/踢出/解散)
+    aliases: [team, p]
+  friend:
+    description: 好友相关指令 (添加/删除/列表)
+    aliases: [f]
+  mail:
+    description: 邮件与离线留言系统

@@ -1,0 +1,9 @@
+# Gensokyo Social 核心配置
+# 作者: eogd
+settings:
+  # 队伍人数上限
+  party-max-size: 3
+  # 好友上限
+  friend-max-limit: 50
+  # 默认发件人
+  system-mail-sender: "Kirisame Marisa"
